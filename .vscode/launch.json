@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Test DBConnection",
+            "request": "launch",
+            "mainClass": "DBConnection",
+            "projectName": "AV_FLEET_SAFETY_AUDIT"
+        },
+        {
+            "type": "java",
+            "name": "Run MainApp",
+            "request": "launch",
+            "mainClass": "MainApp",
+            "projectName": "AV_FLEET_SAFETY_AUDIT"
+        }
+    ]
+}

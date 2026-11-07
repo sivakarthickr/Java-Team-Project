@@ -1,0 +1,19 @@
+# Compiled Java bytecode
+bin/
+*.class
+
+# Project & IDE metadata
+.settings/
+.classpath
+.project
+
+# Generated simulation reports (keep reports directory clean)
+reports/*.txt
+!reports/.gitkeep
+
+# Environment variables & secrets
+.env
+
+# Operating system files
+Thumbs.db
+.DS_Store
